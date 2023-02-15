@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Word-Quest-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Word-Quest-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Word-Quest-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Word-Quest-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Word-Quest-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Word-Quest-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Word-Quest-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Word-Quest-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Word-Quest-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Word-Quest-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horizontalspinner/Android-Word-Quest-master.horizontalspinner.iml" filepath="$PROJECT_DIR$/.idea/modules/horizontalspinner/Android-Word-Quest-master.horizontalspinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horizontalspinner/Android-Word-Quest-master.horizontalspinner.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/horizontalspinner/Android-Word-Quest-master.horizontalspinner.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horizontalspinner/Android-Word-Quest-master.horizontalspinner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/horizontalspinner/Android-Word-Quest-master.horizontalspinner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/horizontalspinner/Android-Word-Quest-master.horizontalspinner.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/horizontalspinner/Android-Word-Quest-master.horizontalspinner.unitTest.iml" />
+    </modules>
+  </component>
+</project>
